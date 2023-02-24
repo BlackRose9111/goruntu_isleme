@@ -16,3 +16,10 @@ print("b nın değeri :", b)
 print("c nın değeri :", c)
 print("d nın değeri :", d)
 print("e nın değeri :", e)
+
+#değişkenlerin tipini belirlemek için : kullanılır
+
+degis : int = 5
+degis2 : float = 5.5
+degis3 : str = "metin"
+print(degis, degis2, degis3)
